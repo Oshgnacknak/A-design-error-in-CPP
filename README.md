@@ -1,3 +1,5 @@
+# A design error in C++
+
 Let's begin with a simple C++ Program:
 ```cpp
 #include <stdio.h>
